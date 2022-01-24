@@ -44,3 +44,4 @@ kind: ServiceAccount
 metadata:
   name: dex
   namespace: auth
+
