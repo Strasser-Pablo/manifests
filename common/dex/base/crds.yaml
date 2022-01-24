@@ -11,7 +11,8 @@ spec:
     plural: authcodes
     singular: authcode
   scope: Namespaced
-  version: v1
+  versions: 
+    - name: v1
 ---
 apiVersion: rbac.authorization.k8s.io/v1
 kind: ClusterRole
